@@ -9,6 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <form action="">
+          <input type="text" placeholder="馬名を入力"/>
+        </form>
         <a
           className="App-link"
           href="https://reactjs.org"
